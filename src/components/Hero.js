@@ -24,7 +24,7 @@ const Hero = () => {
             className="mt-6 px-6 py-2 bg-yellow-500 hover:bg-yellow-600 text-black font-semibold rounded"
             onClick={handleButtonClick}
           >
-            Let's Create Something Amazing
+            Let's Create Something Amazing 
           </button>
         </div>
       </div>
